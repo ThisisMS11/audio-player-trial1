@@ -1,0 +1,119 @@
+body{
+    background-color: blueviolet;
+}
+.maincontainer{
+    flex-direction:column;
+}
+.maincontainer::before{
+    height:1355px;
+}
+.container1{
+    width:100vw;
+    height:650px;
+}
+.container2{
+    width:100vw;
+}
+.firsthead{
+    text-align:center;
+    margin: auto;
+    width: 100vw;
+}
+.secondhead{
+    text-align: center;
+    margin: auto;
+    width: 100vw;
+}
+#thirdhead{
+    text-align: center;
+    margin: auto;
+    width: 100vw;
+}
+#fourthead{
+    text-align: center;
+    margin: auto;
+    width: 100vw;
+
+}
+
+
+.buttonc1{
+    justify-content: center;
+    margin: auto;
+    width: 100vw;
+}
+
+.songphotoc{
+    width: 100vw;
+    margin: auto;
+
+}
+.buttonc2{
+    justify-content: center;
+    width: 100vw;
+    margin: auto;
+}
+
+
+
+
+/* .songholderbrick{
+    width: 100px;
+} */ 
+.divider1{
+    width: 300px;
+    height: 100px;
+    /* justify-content: space-evenly; */
+}
+.songtext{
+    width: 220px;
+    height:90px;
+}
+.songtext1{
+    height: 45px;
+    display: flex;
+    align-items: center;
+    
+}
+.songtext2{
+    height:40px;
+}
+.song{
+    justify-content:center;
+    height: 130px;
+    width: 100vw;
+}
+.songsmallimage{
+    margin-right: 6px;
+}
+.songholderc{
+    width: 100vw;
+    margin: auto;
+}
+
+/* settings for the progressbar  */
+
+#progressbar{
+    width: 300px;
+
+}
+
+.buttons{
+    width: 300px;
+    
+   
+
+}
+.icons{
+    width:100vw;
+    justify-content: center;
+    align-items: center;
+}
+.timings{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+
+
